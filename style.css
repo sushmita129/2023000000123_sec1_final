@@ -45,3 +45,18 @@ h1 {
 .delete-btn:hover {
   background: darkred;
 }
+
+.toggle-btn {
+  margin-top: 10px;
+  padding: 6px 10px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.toggle-btn:hover {
+  background: #0056b3;
+}
